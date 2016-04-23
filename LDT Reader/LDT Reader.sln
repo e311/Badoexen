@@ -5,6 +5,12 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDT Reader", "LDT Reader\LDT Reader.csproj", "{0FB69207-C868-4B73-ACF1-B95DF4199021}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A157ADDD-D343-4752-BDA8-30A494983264}"
+	ProjectSection(SolutionItems) = preProject
+		20160303163832_A0154100303.ldt = 20160303163832_A0154100303.ldt
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

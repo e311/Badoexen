@@ -14,7 +14,7 @@ namespace LDT_Reader
     {
         static void Main(string[] args)
         {
-            StreamReader objReader = new StreamReader("c:\\Users\\fwantzen\\Desktop\\20160303163832_A0154100303.ldt");
+            StreamReader objReader = new StreamReader("20160303163832_A0154100303.ldt");
             String[] suchbegriff = { "3101", "3102", "84059", "3103" };
             ArrayList Patidnet = wortsuche(suchbegriff, objReader);
 
